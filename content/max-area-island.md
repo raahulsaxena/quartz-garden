@@ -3,7 +3,7 @@ title: Max Area of Island
 tags:
   - graph
   - dfs
-description: Return the maximum **area** of an island in grid containing 1's and 0's.
+description: Return the maximum area of an island in grid containing 1's and 0's.
 ---
 
 ## Question

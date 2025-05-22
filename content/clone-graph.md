@@ -2,7 +2,7 @@
 title: Clone Graph 
 tags:
   - graph
-  - BFS
+  - bfs
 description: Given a node in a connected undirected graph, return a deep copy of the graph. Leetcode 133.
 ---
 
