@@ -6,6 +6,10 @@ tags:
 description: Given a 2D grid, return the number of islands.
 ---
 
+
+## Question
+---
+
 Given a 2D grid `grid` where `'1'` represents land and `'0'` represents water, count and return the number of islands.
 
 An **island** is formed by connecting adjacent lands horizontally or vertically and is surrounded by water. You may assume water is surrounding the grid (i.e., all the edges are water).
