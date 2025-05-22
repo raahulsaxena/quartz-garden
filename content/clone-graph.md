@@ -1,11 +1,8 @@
 ---
-title: Clone Graph (Leetcode 133)
+title: Clone Graph 
 tags:
   - graph
   - BFS
-  - Leetcode
-  - deep copy
-  - problems
 description: Given a node in a connected undirected graph, return a deep copy of the graph. Leetcode 133.
 ---
 
