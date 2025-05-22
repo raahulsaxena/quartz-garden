@@ -6,8 +6,6 @@ tags:
   - topological-sort
   - shortest-path
 description: Complete graph theory needed for coding interviews.
-author: Rahul Saxena
-last-updated: March 22, 2025
 ---
 
 
