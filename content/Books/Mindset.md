@@ -1,0 +1,44 @@
+---
+title: Mindset Books
+tags:
+    - books
+    - mindset
+    - personal-development
+---
+
+
+- Psycho Cybernetics by Maxwell Maltz
+    - provides tools to change perception of self
+- The Power Habits System by Noah St. John
+    - Thinking in systems
+- Satisfaction: Sensation Seeking, Novelty, and the Science of Finding True Fulfillment Book by Gregory Berns
+- Breaking the Habit of Being Yourself by Joe Dispenza.
+    - You are on autopilot far, far more than you realize. This book opens up the possibility of lasting, significant change.
+- **How to win friends and influence people**
+- **Atomic Habits**
+- The Motivation Myth by Jeff Haden
+- **Mindset, by Carol Dweck**
+    - Growth Mindset
+- The 7 Habits of Highly Successful (Effective?) people
+- Who Moved My Cheese?
+- **Can't Hurt Me - David Goggins**
+- A Mans Search for Meaning by Viktor Frankl.
+- Maximum Achievement by Brian Tracy
+- **Never Finished: Unshackle Your Mind and Win the War Within**
+- The Power of Habit by Charles Duhigg
+- The Four Agreements
+- Grit by Angela Duckworth
+- The Four Tendencies by Gretchen Rubin
+- The Power of Now.
+- The Alchemist
+- The Burnout Fix by Jacinta Jiménez
+- A New Earth by Eckhart Tolle
+- The obstacle is the way
+- The power of your subconscious mind by Joseph Murphy
+- Extreme Ownership, by Jocko Willink
+- 12 Rules for Life : An Antidote to Chaos'
+- The Subtle Art of Not Giving A Fuck
+- **Think and Grow Rich** 
+- **Rich Dad Poor Dad by Robert Kiyosaki**
+- The 5am Club by Robin Sharma
+- “Four Thousand Weeks, Time Management For Mere Mortals” by Oliver Burkeman
