@@ -1,0 +1,104 @@
+---
+title: Data Structures and Algorithms
+tags:
+- data-structures
+- algorithms
+- interview-prep
+- guide
+created: 2024-06-10
+---
+
+- Common Data Structures
+	- [[Graphs]]
+	- [[Binary Tree]]
+	- [[Linked List]]
+	- [[Stack]]
+	- [[Trie]]
+
+- Atomic Subproblems (Common Patterns)
+	- Prefix Sum
+	- Two Pointers
+	- Sliding Window
+	- Top K elements
+	- 2 Heaps
+	- Cyclic Sort
+	- In-place reversal of LinkedList
+	- K-way merge
+	- Monotonic Stack
+	- [[Binary Search]]
+	- Overlapping Intervals / Merge Intervals
+	- Depth First Search (DFS)
+	- Breadth First Search (BFS)
+	- Backtracking
+	- Greedy
+	- Bit Manipulation
+	- Trie
+	- [[Dynamic Programming]] (Improve!)
+		- [DP Patterns](https://leetcode.com/discuss/study-guide/458695/dynamic-programming-patterns)
+		- Knapsack
+		- Fibonacci
+		- Longest Common Subsequence
+		- Longest Increasing Subsequence
+		- Coin Change
+		- Matrix Chain Multiplication
+		- Subset Sum
+		- Edit Distance
+		- Palindrome Partitioning
+
+- General Tips:
+	- If input array is sorted
+		- Binary Search
+		- Two Pointers
+	- If asked for all permutations/subsets
+		- Backtracking
+	- If given a tree/graph
+		- BFS
+		- DFS
+	- If given a linked-list
+		- Two Pointers
+	- If recursion is banned
+		- Stack
+	- If must solve in-place then
+		- Swap corresponding values
+		- Store one or more different values in the same pointer
+	- If asked for maximum/minimum subarray/subset/options then
+		- Dynamic programming
+		- Sliding window
+	- If asked for top/least K items then
+		- Heap
+		- QuickSelect
+	- If asked for common strings then
+		- Map
+		- Trie
+	- Else
+		- Map/Set for O(1) time & O(n) space
+		- Sort input for O(nlogn) time and O(1) space
+		
+- Question Banks (Selected Problems)
+	- [Grind 169](https://www.techinterviewhandbook.org/grind75/?weeks=28&hours=6)
+	- NeetCode.io
+	- Blind 75
+	- [Neetcode-All](https://neetcode.io/practice?tab=allNC)
+	- [Algomaster.io](https://algomaster.io/practice/dsa-patterns)
+	- [InterviewBit](https://www.interviewbit.com/)
+	- [takeuforward](https://takeuforward.org/)
+	- [30DC DSA Question List](https://dsa.30dayscoding.com/)
+	- [Sean Prashad : Leetcode-Patterns](https://seanprashad.com/leetcode-patterns/)
+- Resources
+	- AlgoZenith
+	- AlgoMonster
+- Videos
+	- takeUForward
+	- Aryan Mittal
+	- Aditya Verma
+	- (Hindi) Coder Army
+- General Inspiration
+	- Harkirat Singh
+
+- https://30dayscoding.com/dsa
+
+- https://www.youtube.com/watch?v=RYT08CaYq6A&ab_channel=AlgoMonster
+- https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/
+- https://cicscareers.notion.site/Technical-Interviewing-5f1bc741129b48cd830eedc262da7496
+- https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc#_blank
+

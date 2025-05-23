@@ -1,0 +1,69 @@
+---
+title: Tech Interview Guide
+tags:
+    - interview
+    - preparation
+    - programming
+    - system design
+    - data structures
+    - algorithms
+created: 2024-06-09
+---
+
+
+
+## Major areas
+
+- System Design
+	- Object Oriented Design
+	- [[LLD Interview Guide]]
+	- [[High Level System Design]]
+    - Hello Interview for System Design Practice
+- [[Data Structures and Algorithms]]
+- Machine Learning
+	- [[ML Interview Guide]]
+- Data Science
+	- Stratascratch
+- Programming Languages
+	- C++
+	- Java
+	- Python
+	- TypeScript / Javascript
+- DevOps / MLOps
+	- Git/Github in detail - rebase, merge, CI/CD pipelines
+	- Docker - containerization
+- Full stack
+	- Checkout full-stack roadmap from Harkirat
+	- MERN stack - very popular HTTP server. TypeScript, SQL database,
+- Interviews 
+	- Mock Interviews
+		- [Pramp](https://www.pramp.com/](https://www.pramp.com/)  
+	- [[Behavioral Interview]]
+		- [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/) 
+
+- Books
+	- Competitive Programming
+		- [[cp-handbook.pdf]]
+	- System Design
+		- [[grokking-the-system-design-interview.pdf]]
+		- [[System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf]]
+	- Database
+		- [[Database Internals.pdf]]
+	
+- Guide
+	- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+	- [CICS Career Guide for Tech Interview](https://cicscareers.notion.site/Technical-Interviewing-5f1bc741129b48cd830eedc262da7496)
+
+- Repositories
+	- [Coding Interview Repository](https://github.com/jwasham/coding-interview-university?tab=readme-ov-file)
+	- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+	- [Interview_DSAlgo](https://github.com/MAZHARMIK/Interview_DS_Algo?tab=readme-ov-file)
+	- [Javascript-Algorithms](https://github.com/trekhleb/javascript-algorithms)
+	- [How Web Works](https://github.com/vasanthk/how-web-works)
+	- [LeetCode Companywise Questions](https://github.com/hxu296/leetcode-company-wise-problems-2022?tab=readme-ov-file)
+	- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
+
+
+
+
