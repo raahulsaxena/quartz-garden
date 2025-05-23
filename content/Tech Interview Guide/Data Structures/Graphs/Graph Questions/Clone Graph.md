@@ -37,7 +37,6 @@ Input: adjList = [[2],[1,3],[2]]
 Output: [[2],[1,3],[2]]
 ```
 
-Copy
 
 Explanation: There are 3 nodes in the graph.  
 Node 1: val = 1 and neighbors = [2].  
@@ -54,7 +53,6 @@ Input: adjList = [[]]
 Output: [[]]
 ```
 
-Copy
 
 Explanation: The graph has one node with no neighbors.
 
@@ -66,7 +64,6 @@ Input: adjList = []
 Output: []
 ```
 
-Copy
 
 Explanation: The graph is empty.
 

@@ -26,6 +26,48 @@ For visualization of model performance and check the training loss and validatio
 
 https://github.com/huggingface/transformers/issues/7974
 
+### Issues
+Model is overfitting to syntax, not structure.
+Evidence is being under utilized during generation.
+
+preventing overfitting to **SQL syntax patterns** during fine-tuning (e.g., always producing queries that “look” right but are **semantically wrong**) is crucial when training models on tasks like text-to-SQL.
+
+
+```python
+
+
+prompt_templates = [
+    "Given the schema and a user question, write the SQLite query.",
+    "Use the evidence and schema below to create the corresponding SQL.",
+    "Generate SQL from this question and database structure.",
+    "Create a valid SQLite query from the inputs below."
+]
+
+chosen_template = random.choice(prompt_templates)
+prompt = f"""{chosen_template}
+
+Database Schema:
+{schema_str}
+
+Question: {example['question'].strip()}
+
+Evidence: {example['evidence'].strip()}
+
+SQL:"""
+```
+
+- Inference is taking around 1 hour to generate 500 SQLs.
+
+### Some details on fine-tuning
+- Length of prompt encodings are between 300-500 tokens
+- Length of completion encoding is between 10-60
+- Length of input ids is sum of above tw
+
+Instead of overfocusing on the training loss number, I looked at the trend and noticed that the training loss and validation loss was reducing so model was learning. Although it's not much.
+
+It seems that model is already great at predicting the SQL keywords, and basic structure.
+
+Can look into SFT Trainer that does tokenization and masking automatically.
 
 ### Effect of prompt alignment on fine-tuning
 
