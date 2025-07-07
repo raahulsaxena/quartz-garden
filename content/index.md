@@ -1,5 +1,5 @@
 ---
-title: Rahul's Digital Garden
+title: Notes from the Underground
 ---
 
 # Hi, I’m Rahul 👋
