@@ -1,5 +1,5 @@
 ---
-title: Explore My Evolving Digital Garden
+title: Rahul's Digital Garden
 ---
 
 # Hi, I’m Rahul 👋
