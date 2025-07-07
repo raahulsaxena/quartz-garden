@@ -2,7 +2,7 @@
 title: Notes from the Underground
 ---
 
-# Hi, I’m Rahul 👋
+### Hi, I’m Rahul 👋
 
 Welcome to my Digital Garden — a growing collection of ideas, notes, experiments, and technical insights I'm cultivating as I learn.
 
